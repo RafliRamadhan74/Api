@@ -1,0 +1,132 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Ahmad Fauzi",
+      "nim": "2021001",
+      "email": "ahmad.fauzi@student.edu",
+      "major": "Teknik Informatika",
+      "semester": 6,
+      "gpa": 3.75,
+      "status": "Active",
+      "enrolledCourses": 5
+    },
+    {
+      "id": "2",
+      "name": "Siti Nurhaliza",
+      "nim": "2021002",
+      "email": "siti.nurhaliza@student.edu",
+      "major": "Sistem Informasi",
+      "semester": 4,
+      "gpa": 3.92,
+      "status": "Active",
+      "enrolledCourses": 6
+    },
+    {
+      "id": "3",
+      "name": "Budi Santoso",
+      "nim": "2021003",
+      "email": "budi.santoso@student.edu",
+      "major": "Teknik Informatika",
+      "semester": 8,
+      "gpa": 3.45,
+      "status": "Active",
+      "enrolledCourses": 3
+    },
+    {
+      "id": "4",
+      "name": "Dewi Sartika",
+      "nim": "2021004",
+      "email": "dewi.sartika@student.edu",
+      "major": "Sistem Informasi",
+      "semester": 2,
+      "gpa": 3.88,
+      "status": "Active",
+      "enrolledCourses": 7
+    },
+    {
+      "name": "Abdul Rozi",
+      "nim": "2021005",
+      "email": "abdul.rozi@student.edu",
+      "major": "Teknik Informatika",
+      "semester": 2,
+      "gpa": 3.46,
+      "id": "a512",
+      "status": "Active",
+      "enrolledCourses": 5
+    },
+    {
+      "id": "86e5",
+      "name": "Imam Samudra",
+      "nim": "20210010",
+      "email": "imam.samudra@student.edu",
+      "major": "Teknik Informatika",
+      "semester": 1,
+      "gpa": 4,
+      "status": "Active",
+      "enrolledCourses": 10
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "code": "IF101",
+      "name": "Pemrograman Dasar",
+      "credits": 3,
+      "instructor": "Dr. Bambang Wijaya",
+      "semester": "Ganjil",
+      "capacity": 40,
+      "enrolled": 35,
+      "description": "Mata kuliah dasar pemrograman menggunakan bahasa C++",
+      "status": "Active"
+    },
+    {
+      "id": "2",
+      "code": "IF201",
+      "name": "Struktur Data",
+      "credits": 3,
+      "instructor": "Prof. Sarah Johnson",
+      "semester": "Genap",
+      "capacity": 35,
+      "enrolled": 30,
+      "description": "Konsep struktur data dan algoritma fundamental",
+      "status": "Active"
+    },
+    {
+      "id": "3",
+      "code": "IF301",
+      "name": "Basis Data",
+      "credits": 4,
+      "instructor": "Dr. Agus Susanto",
+      "semester": "Ganjil",
+      "capacity": 30,
+      "enrolled": 28,
+      "description": "Perancangan dan implementasi sistem basis data",
+      "status": "Active"
+    },
+    {
+      "id": "4",
+      "code": "IF401",
+      "name": "Rekayasa Perangkat Lunak",
+      "credits": 3,
+      "instructor": "Dr. Maria Santos",
+      "semester": "Genap",
+      "capacity": 25,
+      "enrolled": 22,
+      "description": "Metodologi pengembangan perangkat lunak",
+      "status": "Active"
+    },
+    {
+      "id": "0f6a",
+      "code": "IF105",
+      "name": "Pemrograman Berbasis Komponen",
+      "description": "Mata kuliah pemrograman berbasis komponen",
+      "instructor": "M. Rizki Fadhilah,S.T.,M.Eng",
+      "credits": 3,
+      "semester": "Genap",
+      "capacity": 30,
+      "enrolled": 21,
+      "status": "Active"
+    }
+  ]
+}
